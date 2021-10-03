@@ -1,4 +1,6 @@
 ## Olá! Eu sou a Silvana Betoldo 👀✨
+▶ Studying development ✔
+💖In love with technology ✔
 <div align="center">
   <a href="https://github.com/Silbetoldo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Silbetoldo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
