@@ -14,7 +14,7 @@
    <img align="center" alt="Sil-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 
-  <img align="right" alt="Sil-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHQhXXaL1q8KQ/profile-displayphoto-shrink_800_800/0/1591064304938?e=1639008000&v=beta&t=2a-KMGBmwWiXnXnw3KWgD8VhQpDGVrZHcnsdRrs--sw">
+  <img align="right" alt="Sil-pic" height="150" style="border-radius:50px; " src="https://media-exp1.licdn.com/dms/image/C4D03AQHQhXXaL1q8KQ/profile-displayphoto-shrink_800_800/0/1591064304938?e=1639008000&v=beta&t=2a-KMGBmwWiXnXnw3KWgD8VhQpDGVrZHcnsdRrs--sw">
 
 </div>
  
@@ -25,6 +25,7 @@
 
   <a href="https://www.linkedin.com/in/silvana-betoldo-03977a94" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- 
- [![Matrix SVG](https://github.com/Silbetoldo/Silbetoldo/blob/main/matrix.svg)] 
+
+  ## 
+ ![Matrix SVG](https://github.com/Silbetoldo/Silbetoldo/blob/main/matrix.svg)] 
 
