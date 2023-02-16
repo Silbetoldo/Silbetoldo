@@ -14,7 +14,7 @@
    <img align="center" alt="Sil-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 
-  <img align="right" alt="Sil-pic" height="150" style="border-radius:50px; " src="https://media-exp1.licdn.com/dms/image/C4D03AQH66o1a656SaA/profile-displayphoto-shrink_800_800/0/1663176130969?e=1669852800&v=beta&t=fjjHA37neVSQApQE_HLQQnJU9_X_QeoZNE51rbmYneY](https://media.licdn.com/dms/image/C4D03AQH66o1a656SaA/profile-displayphoto-shrink_800_800/0/1663176130969?e=1681948800&v=beta&t=B0iec2i7DzeqV5832E42H7kFTj8Cx-EnFsKLRzpKvOM)">
+  <img align="right" alt="Sil-pic" height="150" style="border-radius:50px; " src="https://media-exp1.licdn.com/dms/image/C4D03AQH66o1a656SaA/profile-displayphoto-shrink_800_800/0/1663176130969?e=1669852800&v=beta&t=fjjHA37neVSQApQE_HLQQnJU9_X_QeoZNE51rbmYneY">
 
 </div>
  
