@@ -33,4 +33,6 @@
  ![Matrix SVG](https://github.com/Silbetoldo/Silbetoldo/blob/main/matrix.svg)
 <!--    ## 
  ![Cobrinha SVG](https://github.com/Silbetoldo/Silbetoldo/blob/main/cobrinha.yml)-->
+ ![Snake animation](https://github.com/VillyRosa/Silbetoldo/Silbetoldo/blob/main/cobrinha.yml)
 
+  </div>
