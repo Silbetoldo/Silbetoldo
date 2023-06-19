@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Silvana Betoldo 👀✨
-▶ Graduated in Analysis and Development of Systems and Computer Networks. Experience as a Network and Data Communications Analyst, Teacher and Web Front-End Developer and Basic Android Native Mobile. ✔
+▶ Graduated in Analysis and Development of Systems and Computer Networks. Experience as a Network and Data Communications Analyst, Teacher and Web Front-End Developer and Basic Android Native Mobile. ✔<br>
 💖Passionate about technology and thirsty for constant learning, I'm always looking to improve my skills and knowledge. ✔
 <div align="center">
   <a href="https://github.com/Silbetoldo">
