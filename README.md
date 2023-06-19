@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Silvana Betoldo 👀✨
-▶ Studying development ✔
-💖In love with technology ✔
+▶ Graduated in Analysis and Development of Systems and Computer Networks. Experience as a Network and Data Communications Analyst, Teacher and Web Front-End Developer and Basic Android Native Mobile. ✔
+💖Passionate about technology and thirsty for constant learning, I'm always looking to improve my skills and knowledge. ✔
 <div align="center">
   <a href="https://github.com/Silbetoldo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Silbetoldo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
