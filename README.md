@@ -31,5 +31,5 @@
   ## 
  ![Matrix SVG](https://github.com/Silbetoldo/Silbetoldo/blob/main/matrix.svg)
     ## 
- ![Cobrinha SVG](https://github.com/Silbetoldo/Silbetoldo/blob/main/cobrinha.yml)
+<!-- ![Cobrinha SVG](https://github.com/Silbetoldo/Silbetoldo/blob/main/cobrinha.yml)-->
 
