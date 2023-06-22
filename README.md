@@ -36,6 +36,6 @@
  ![Matrix SVG](https://github.com/Silbetoldo/Silbetoldo/blob/main/matrix.svg)
 <!--    ## 
  ![Cobrinha SVG](https://github.com/Silbetoldo/Silbetoldo/blob/main/cobrinha.yml)-->
- ![Snake animation](https://github.com/Silbetoldo/Silbetoldo/blob/main/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Silbetoldo/Silbetoldo/blob/main/snack-snack.svg)
 
   </div>
