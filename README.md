@@ -37,5 +37,7 @@
 <!--    ## 
  ![Cobrinha SVG](https://github.com/Silbetoldo/Silbetoldo/blob/main/cobrinha.yml)-->
  ![Snake animation](https://github.com/Silbetoldo/Silbetoldo/blob/main/snack-snack.svg)
+ ![PoweShell animation](https://github.com/Silbetoldo/Silbetoldo/blob/main/awesome_window_frame_powershell.svg)
+ 
 
   </div>
